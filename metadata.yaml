@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9382
     wikipedia: http://en.wikipedia.org/wiki/Alpheus_Spring_Packard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20556#Lamarck-the-Founder-of-EvolutionHis-Life-and-Work
 gutenberg_bookshelf: Biology
 gutenberg_issued: '2007-02-10'
 gutenberg_type: Text
